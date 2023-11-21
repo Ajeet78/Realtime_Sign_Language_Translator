@@ -1,0 +1,789 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [androidx.databinding:viewbinding:8.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\88009b2c555eef10146b90d457744f93\transformed\viewbinding-8.1.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f983e27254e15b1d91f999dba065c932\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c556c76fa6404f856f09406ae2b388c8\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9840287a6bf04d988dd02da0620f4b3b\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\58f811ecd476f152a44d43ee45cf7d72\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cb9462ca8fffd830fa606f98d0d08499\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\23894c17d12fc593a1290d826b87aa9a\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\7b51af010ce8cf9f2db6e624dc660d14\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9e22a9309e5c96da796e6af293cd9d8d\transformed\navigation-ui-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.10.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\16eb237f44f7a94aa8fdf1bc61660b41\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d76f94a5071754f76411636e3b964b43\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b652ff1f1df52f930586affda862dbfc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4bdd2fa4f64efcf521e25caba681f90a\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b3ce7f0efd29a065e0f9f15532734c46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\26e3d47b9242c6979982a5bb8db42f81\transformed\camera-view-1.2.0-alpha02\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4d5c2ffc04768ee19e599251d44b4063\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3d508be391f0f7ec288c1f454a5aa828\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\29fdb21c8c9a0c23bce21f7427ad94bc\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cb351ea61a50af1341a1f7d294ff86fc\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\14b39ae55fe1754981bf56ed90c0d0ff\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\994ddc8590f7b4e28ae6c5e9f3ae5712\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3ca54c3078a9ad917985b3dce2ce8fa6\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\473f90edbdaa3c7fc50c2a43997ba25d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\899d8e3d9ea382557d06a0833ab9147f\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\27ebadcef672f0ec2a81639c647b78d1\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8c8c0b7bb325396db0c62568c9c29888\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\87f6ded8029b11c40c3a305aa5fad447\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b6f78cb77f9810eaf6bfddbb5311608d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\acb175ae8baf1f31ce93f740c47af19c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4b25c235d82c127ca74e02995a2066ea\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\697c392c2ac4835b3dc0f2d5dddddb6d\transformed\camera-lifecycle-1.2.0-alpha02\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3e95e09ce361ed1942b30b55df87b5ed\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4dd36a11f0cd9d8f72fac64df1a69ecb\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core-ktx:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9edcf70de2656f4818f2f259c81812af\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d4858a1fe6acfb36bc4ddb96dd025524\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\eacb3bcc454e0aa8adb0b09f6dc48741\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cf4eb28c6c0d9b6740d1f209d87f3f6a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a163f2322c4e1e058a6384e48f81708f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\840f0625f839a814050c9c0dc0b63528\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\1a7a506c388273027a82a2c01f9ada07\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a40218e860fae24d8886df4b2bd2a411\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3655e6b2159e2aafc39bc596751410af\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cd5069b93e6f8abdbd2f2e679f84d30f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2463a759e3f7bf6cc98f25de33cce488\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4b8a667a78af3a3ccbd5c43c477064a2\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6b970cac818125ab4933e882988984cd\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\0a6dbc0340d16ca5b73077997809f7b5\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9f3dd11b3e31eb4ea9597b9ed1b2a930\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8fc2fb98884f620acaead6b1e560ecc3\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a1aa22ed11f7b3d2d010004b2f567b63\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5c26e0a6a4ddb03fc5da4659e53da672\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d5a58bc3cb58522013deb9762535b29b\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\0645aa2218554e8ca638bd7aa5a45974\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mediapipe:tasks-vision:0.20230731] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2f61ad1c7bfef1e6750914cd8a009979\transformed\tasks-vision-0.20230731\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5432dd17aa4261d79dd3c837e464b7d2\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5007f4a710bf0fab1d0dbf8f32c65a9b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\416e3e3d5b450dcfbebb069289ea2ce8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\085c18e96e68a57d508c2360085f7665\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e10127ee3fdc4767392e45d6e4e2ca1c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8d9efa0439a437cf7dadf05006344d27\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d67ffab548f4c1d1246e2e7e6d2015d2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c63da78045c71192bb42a2cf21fb5b32\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4d52fdd9966a78bbdf791f996898c4a8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\1bb640bce0395dfa84578e983dc99a9a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mediapipe:tasks-core:0.20230731] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a06d5d4f1d82127c0ec73ec33c870440\transformed\tasks-core-0.20230731\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a49c82967c820307757108b02b6d4285\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\06f673652e70ea71f41230ff45b8b92f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2bfb580b9459037cd0027858773372ab\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a3083060dbc6d5b7d8e46ef3b6418917\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\314943011b7a1eb5beaaf055d49e851e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c5d944854f0802e89b12817f0d77f429\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e0f9f299b56b2dae2dc4a967a751890e\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:7:5-40
+	dist:instant
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:7:18-37
+uses-feature#android.hardware.camera
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:10:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:13:22-62
+application
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:15:5-52:19
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:15:5-52:19
+MERGED from [com.google.android.material:material:1.10.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\16eb237f44f7a94aa8fdf1bc61660b41\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\16eb237f44f7a94aa8fdf1bc61660b41\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d76f94a5071754f76411636e3b964b43\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d76f94a5071754f76411636e3b964b43\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:22:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4bdd2fa4f64efcf521e25caba681f90a\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4bdd2fa4f64efcf521e25caba681f90a\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b3ce7f0efd29a065e0f9f15532734c46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b3ce7f0efd29a065e0f9f15532734c46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.play:integrity:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\14b39ae55fe1754981bf56ed90c0d0ff\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\14b39ae55fe1754981bf56ed90c0d0ff\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\994ddc8590f7b4e28ae6c5e9f3ae5712\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\994ddc8590f7b4e28ae6c5e9f3ae5712\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\473f90edbdaa3c7fc50c2a43997ba25d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\473f90edbdaa3c7fc50c2a43997ba25d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5432dd17aa4261d79dd3c837e464b7d2\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5432dd17aa4261d79dd3c837e464b7d2\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e10127ee3fdc4767392e45d6e4e2ca1c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e10127ee3fdc4767392e45d6e4e2ca1c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d67ffab548f4c1d1246e2e7e6d2015d2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d67ffab548f4c1d1246e2e7e6d2015d2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:25:5-39:19
+	android:extractNativeLibs
+		INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:18:9-41
+	tools:ignore
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:23:9-35
+	android:roundIcon
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:19:9-65
+	android:icon
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:17:9-60
+	android:allowBackup
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:22:9-55
+	android:taskAffinity
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:21:9-32
+activity#com.google.mediapipe.examples.gesturerecognizer.kotlin.MainActivity
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:25:9-57
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:25:19-54
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.ForgetPasswordActivity
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:26:9-78
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:26:19-75
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.Home
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:27:9-60
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:27:19-57
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.SignUp
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:28:9-62
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:28:19-59
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.profile.Profile
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:29:9-33:31
+	android:parentActivityName
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:31:13-65
+	android:label
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:33:13-29
+	android:theme
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:32:13-66
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:30:13-62
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.profile.UpdateProfileActivity
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:35:9-85
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:35:19-82
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.profile.UploadProfilePicActivity
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:36:9-88
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:36:19-85
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.profile.ChangePasswordActivity
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:37:9-86
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:37:19-83
+activity#com.google.mediapipe.examples.gesturerecognizer.java.Registration.SignIn
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:38:9-51:20
+	android:exported
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:39:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:44:27-74
+meta-data#android.notch_support
+ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:48:13-50:40
+	android:value
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml:49:17-53
+uses-sdk
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\88009b2c555eef10146b90d457744f93\transformed\viewbinding-8.1.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\88009b2c555eef10146b90d457744f93\transformed\viewbinding-8.1.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f983e27254e15b1d91f999dba065c932\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f983e27254e15b1d91f999dba065c932\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c556c76fa6404f856f09406ae2b388c8\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c556c76fa6404f856f09406ae2b388c8\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9840287a6bf04d988dd02da0620f4b3b\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9840287a6bf04d988dd02da0620f4b3b\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\58f811ecd476f152a44d43ee45cf7d72\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\58f811ecd476f152a44d43ee45cf7d72\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cb9462ca8fffd830fa606f98d0d08499\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cb9462ca8fffd830fa606f98d0d08499\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\23894c17d12fc593a1290d826b87aa9a\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\23894c17d12fc593a1290d826b87aa9a\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\7b51af010ce8cf9f2db6e624dc660d14\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\7b51af010ce8cf9f2db6e624dc660d14\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9e22a9309e5c96da796e6af293cd9d8d\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9e22a9309e5c96da796e6af293cd9d8d\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\16eb237f44f7a94aa8fdf1bc61660b41\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\16eb237f44f7a94aa8fdf1bc61660b41\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d76f94a5071754f76411636e3b964b43\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d76f94a5071754f76411636e3b964b43\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b652ff1f1df52f930586affda862dbfc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b652ff1f1df52f930586affda862dbfc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4bdd2fa4f64efcf521e25caba681f90a\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4bdd2fa4f64efcf521e25caba681f90a\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b3ce7f0efd29a065e0f9f15532734c46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b3ce7f0efd29a065e0f9f15532734c46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\26e3d47b9242c6979982a5bb8db42f81\transformed\camera-view-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\26e3d47b9242c6979982a5bb8db42f81\transformed\camera-view-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4d5c2ffc04768ee19e599251d44b4063\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4d5c2ffc04768ee19e599251d44b4063\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3d508be391f0f7ec288c1f454a5aa828\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3d508be391f0f7ec288c1f454a5aa828\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\29fdb21c8c9a0c23bce21f7427ad94bc\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\29fdb21c8c9a0c23bce21f7427ad94bc\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cb351ea61a50af1341a1f7d294ff86fc\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cb351ea61a50af1341a1f7d294ff86fc\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\14b39ae55fe1754981bf56ed90c0d0ff\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\14b39ae55fe1754981bf56ed90c0d0ff\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\994ddc8590f7b4e28ae6c5e9f3ae5712\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\994ddc8590f7b4e28ae6c5e9f3ae5712\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3ca54c3078a9ad917985b3dce2ce8fa6\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3ca54c3078a9ad917985b3dce2ce8fa6\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\473f90edbdaa3c7fc50c2a43997ba25d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\473f90edbdaa3c7fc50c2a43997ba25d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\899d8e3d9ea382557d06a0833ab9147f\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\899d8e3d9ea382557d06a0833ab9147f\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\27ebadcef672f0ec2a81639c647b78d1\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\27ebadcef672f0ec2a81639c647b78d1\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8c8c0b7bb325396db0c62568c9c29888\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8c8c0b7bb325396db0c62568c9c29888\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\87f6ded8029b11c40c3a305aa5fad447\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\87f6ded8029b11c40c3a305aa5fad447\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b6f78cb77f9810eaf6bfddbb5311608d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b6f78cb77f9810eaf6bfddbb5311608d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\acb175ae8baf1f31ce93f740c47af19c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\acb175ae8baf1f31ce93f740c47af19c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4b25c235d82c127ca74e02995a2066ea\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4b25c235d82c127ca74e02995a2066ea\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\697c392c2ac4835b3dc0f2d5dddddb6d\transformed\camera-lifecycle-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\697c392c2ac4835b3dc0f2d5dddddb6d\transformed\camera-lifecycle-1.2.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3e95e09ce361ed1942b30b55df87b5ed\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3e95e09ce361ed1942b30b55df87b5ed\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4dd36a11f0cd9d8f72fac64df1a69ecb\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4dd36a11f0cd9d8f72fac64df1a69ecb\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9edcf70de2656f4818f2f259c81812af\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9edcf70de2656f4818f2f259c81812af\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d4858a1fe6acfb36bc4ddb96dd025524\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d4858a1fe6acfb36bc4ddb96dd025524\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\eacb3bcc454e0aa8adb0b09f6dc48741\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\eacb3bcc454e0aa8adb0b09f6dc48741\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cf4eb28c6c0d9b6740d1f209d87f3f6a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cf4eb28c6c0d9b6740d1f209d87f3f6a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a163f2322c4e1e058a6384e48f81708f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a163f2322c4e1e058a6384e48f81708f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\840f0625f839a814050c9c0dc0b63528\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\840f0625f839a814050c9c0dc0b63528\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\1a7a506c388273027a82a2c01f9ada07\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\1a7a506c388273027a82a2c01f9ada07\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a40218e860fae24d8886df4b2bd2a411\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a40218e860fae24d8886df4b2bd2a411\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3655e6b2159e2aafc39bc596751410af\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\3655e6b2159e2aafc39bc596751410af\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cd5069b93e6f8abdbd2f2e679f84d30f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\cd5069b93e6f8abdbd2f2e679f84d30f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2463a759e3f7bf6cc98f25de33cce488\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2463a759e3f7bf6cc98f25de33cce488\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4b8a667a78af3a3ccbd5c43c477064a2\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4b8a667a78af3a3ccbd5c43c477064a2\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6b970cac818125ab4933e882988984cd\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6b970cac818125ab4933e882988984cd\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\0a6dbc0340d16ca5b73077997809f7b5\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\0a6dbc0340d16ca5b73077997809f7b5\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9f3dd11b3e31eb4ea9597b9ed1b2a930\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9f3dd11b3e31eb4ea9597b9ed1b2a930\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8fc2fb98884f620acaead6b1e560ecc3\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8fc2fb98884f620acaead6b1e560ecc3\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a1aa22ed11f7b3d2d010004b2f567b63\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a1aa22ed11f7b3d2d010004b2f567b63\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5c26e0a6a4ddb03fc5da4659e53da672\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5c26e0a6a4ddb03fc5da4659e53da672\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d5a58bc3cb58522013deb9762535b29b\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d5a58bc3cb58522013deb9762535b29b\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\0645aa2218554e8ca638bd7aa5a45974\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\0645aa2218554e8ca638bd7aa5a45974\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.mediapipe:tasks-vision:0.20230731] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2f61ad1c7bfef1e6750914cd8a009979\transformed\tasks-vision-0.20230731\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-vision:0.20230731] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2f61ad1c7bfef1e6750914cd8a009979\transformed\tasks-vision-0.20230731\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5432dd17aa4261d79dd3c837e464b7d2\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5432dd17aa4261d79dd3c837e464b7d2\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5007f4a710bf0fab1d0dbf8f32c65a9b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\5007f4a710bf0fab1d0dbf8f32c65a9b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\416e3e3d5b450dcfbebb069289ea2ce8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\416e3e3d5b450dcfbebb069289ea2ce8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\085c18e96e68a57d508c2360085f7665\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\085c18e96e68a57d508c2360085f7665\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e10127ee3fdc4767392e45d6e4e2ca1c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e10127ee3fdc4767392e45d6e4e2ca1c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8d9efa0439a437cf7dadf05006344d27\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\8d9efa0439a437cf7dadf05006344d27\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d67ffab548f4c1d1246e2e7e6d2015d2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\d67ffab548f4c1d1246e2e7e6d2015d2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c63da78045c71192bb42a2cf21fb5b32\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c63da78045c71192bb42a2cf21fb5b32\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4d52fdd9966a78bbdf791f996898c4a8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\4d52fdd9966a78bbdf791f996898c4a8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\1bb640bce0395dfa84578e983dc99a9a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\1bb640bce0395dfa84578e983dc99a9a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.mediapipe:tasks-core:0.20230731] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a06d5d4f1d82127c0ec73ec33c870440\transformed\tasks-core-0.20230731\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-core:0.20230731] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a06d5d4f1d82127c0ec73ec33c870440\transformed\tasks-core-0.20230731\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a49c82967c820307757108b02b6d4285\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a49c82967c820307757108b02b6d4285\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\06f673652e70ea71f41230ff45b8b92f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\06f673652e70ea71f41230ff45b8b92f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2bfb580b9459037cd0027858773372ab\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2bfb580b9459037cd0027858773372ab\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a3083060dbc6d5b7d8e46ef3b6418917\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a3083060dbc6d5b7d8e46ef3b6418917\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\314943011b7a1eb5beaaf055d49e851e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\314943011b7a1eb5beaaf055d49e851e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c5d944854f0802e89b12817f0d77f429\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\c5d944854f0802e89b12817f0d77f429\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e0f9f299b56b2dae2dc4a967a751890e\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e0f9f299b56b2dae2dc4a967a751890e\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\mediapipe-main\mediapipe-main\examples\gesture_recognizer\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\9872b06bb79e2c35a0e9f13a5945fa13\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\e64423bc904d735023924e88da2a0a97\transformed\firebase-auth-22.2.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\73b98d48a1de378cbf6dfa3fbf7c88d8\transformed\firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a313090f550ef95ac613772de6d23097\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f100207325acd59b3af0c0c47b3363fb\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\671bf5c9bdb23aacfb3ca8df7e9b85f3\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\00ac16bf32f384c29497900ce46b46f8\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha03] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\69608a2dcc16b1a309acb39bdbed6580\transformed\window-1.1.0-alpha03\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\544784f463222f750138667838849872\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\f2fcb07504d55ee3280ef2e029afb6b1\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:25:9-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:30:9-34:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\974c1f285788ffe909be779d86c02da8\transformed\camera-core-1.2.0-alpha02\AndroidManifest.xml:30:9-34:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:30:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:27:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:28:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:29:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:26:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:31:13-33:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:33:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\555710c599a77c75d82258bf1004875f\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:32:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\a569864c1a5386b23c3f032a087a6596\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\44b458578e7d6f051eeb0193df25b0a4\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.google.mediapipe.examples.gesturerecognizer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.google.mediapipe.examples.gesturerecognizer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\588620b5a78371f7c2fcbba280352d13\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\70947f44caf0083508616bad685a752d\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\6bbbad7df7a4e0c30c35d337464541a2\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\64a1430c279ff3740278ab35d5e6c1ff\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\b88e561d86aa2c5e3762d3473bfc8890\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] D:\HandGestureRecognition-master\HandGestureRecognition-master\caches\transforms-3\2e3b6c4985fba98252873ca1c96612ee\transformed\transport-runtime-3.1.0\AndroidManifest.xml:33:13-132
