@@ -9,7 +9,7 @@ The task file is downloaded by a Gradle script when you build and run the app. Y
 
 This application should be run on a physical Android device to take advantage of the camera.
 
-![gesture recognition demo](gesturerec.gif?raw=true "Gesture Recognition Demo")
+
 
 
 ## Build the demo using Android Studio
