@@ -1,5 +1,5 @@
 
-# Gesture Recognizer Android Demo
+# Realtime Sign Language Translator Android Demo
 
 ### Overview
 
