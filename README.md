@@ -1,5 +1,5 @@
 
-# Realtime Sign Language Translator Android Demo
+# Realtime Sign Language Translator Application 
 
 ### Overview
 
