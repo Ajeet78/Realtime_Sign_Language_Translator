@@ -1,5 +1,5 @@
 
-# MediaPipe Tasks Gesture Recognizer Android Demo
+# Gesture Recognizer Android Demo
 
 ### Overview
 
