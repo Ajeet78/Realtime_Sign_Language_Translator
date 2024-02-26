@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-57:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-62:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\caches\\transforms-3\\16eb237f44f7a94aa8fdf1bc61660b41\\transformed\\material-1.10.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "D:\\Android-FaceRecognition-main\\caches\\transforms-3\\dacb405a336ab41c6c762832ec44e45a\\transformed\\material-1.10.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -113,7 +113,7 @@ public class SignIn extends AppCompatActivity {
                             pd.dismiss();
 
                             // Sign in success, update UI with the signed-in user's information
-                            Intent intent = new Intent(SignIn.this, Profile.class);
+                            Intent intent = new Intent(SignIn.this, Home.class);
                             startActivity(intent);
                             finish();
                         } else {

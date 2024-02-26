@@ -1,4 +1,4 @@
-#Tue Nov 21 22:05:08 IST 2023
+#Tue Feb 27 01:02:58 IST 2024
 base.0=D\:\\mediapipe-main\\mediapipe-main\\examples\\gesture_recognizer\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\mediapipe-main\\mediapipe-main\\examples\\gesture_recognizer\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\mediapipe-main\\mediapipe-main\\examples\\gesture_recognizer\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex

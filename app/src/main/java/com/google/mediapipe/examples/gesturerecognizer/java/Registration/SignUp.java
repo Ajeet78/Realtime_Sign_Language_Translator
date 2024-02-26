@@ -5,6 +5,7 @@ import static android.content.ContentValues.TAG;
 import android.app.DatePickerDialog;
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
@@ -134,83 +135,85 @@ public class SignUp extends AppCompatActivity {
 
                     editTextRegisterEmail.setError("textEmail is required");
                     editTextRegisterEmail.requestFocus();
-                } else if (!Patterns.EMAIL_ADDRESS.matcher(textEmail).matches()) {
-                    Toast.makeText(SignUp.this, "Please re-enter Email.", Toast.LENGTH_SHORT).show();
+                } else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.FROYO) {
+                    if (!Patterns.EMAIL_ADDRESS.matcher(textEmail).matches()) {
+                        Toast.makeText(SignUp.this, "Please re-enter Email.", Toast.LENGTH_SHORT).show();
 
-                    editTextRegisterEmail.setError("Valid textEmail is required");
-                    editTextRegisterEmail.requestFocus();
-
-
-                } else if (TextUtils.isEmpty(textEmail)) {
-                    Toast.makeText(SignUp.this, "Please enter Email.", Toast.LENGTH_SHORT).show();
-
-                    editTextRegisterEmail.setError("textEmail is required");
-                    editTextRegisterEmail.requestFocus();
-                } else if (!Patterns.EMAIL_ADDRESS.matcher(textEmail).matches()) {
-                    Toast.makeText(SignUp.this, "Please re-enter Email.", Toast.LENGTH_SHORT).show();
-
-                    editTextRegisterEmail.setError("Valid textEmail is required");
-                    editTextRegisterEmail.requestFocus();
-
-                } else if (TextUtils.isEmpty(textDoB)) {
-                    Toast.makeText(SignUp.this, "Please enter your date of birth.", Toast.LENGTH_SHORT).show();
-                    editTextRegisterDoB.setError("Date of Birth is required");
-                    editTextRegisterDoB.requestFocus();
-
-                } else if (radioGroupRegisterGender.getCheckedRadioButtonId() == -1) {
-
-                    Toast.makeText(SignUp.this, "Please select your textGender", Toast.LENGTH_SHORT).show();
-                    radioButtonRegisterGenderSelected.setError("textGender is required");
-                    radioButtonRegisterGenderSelected.requestFocus();
-
-                } else if (TextUtils.isEmpty(textMobile)) {
-                    Toast.makeText(SignUp.this, "Please enter mobile no.", Toast.LENGTH_SHORT).show();
-                    editTextRegisterMobile.setError("Mobile No. is required");
-                    editTextRegisterMobile.requestFocus();
-
-                } else if (textMobile.length() != 10) {
-                    Toast.makeText(SignUp.this, "Please re-enter mobile no.", Toast.LENGTH_SHORT).show();
-                    editTextRegisterMobile.setError("Mobile No. should be 10 digits");
-                    editTextRegisterMobile.requestFocus();
-
-                } else if (!mobileMatcher.find()) {
-                    Toast.makeText(SignUp.this, "Please re-enter mobile no.", Toast.LENGTH_SHORT).show();
-                    editTextRegisterMobile.setError("Mobile no is not valid");
-                    editTextRegisterMobile.requestFocus();
+                        editTextRegisterEmail.setError("Valid textEmail is required");
+                        editTextRegisterEmail.requestFocus();
 
 
-                } else if (TextUtils.isEmpty(textPwd)) {
-                    Toast.makeText(SignUp.this, "Please enter password", Toast.LENGTH_SHORT).show();
-                    editTextRegisterPwd.setError("textPwd is required");
-                    editTextRegisterPwd.requestFocus();
-                } else if (TextUtils.isEmpty(textPwd)) {
-                    Toast.makeText(SignUp.this, "Please enter password", Toast.LENGTH_SHORT).show();
-                    editTextRegisterPwd.setError("textPwd is required");
-                    editTextRegisterPwd.requestFocus();
+                    } else if (TextUtils.isEmpty(textEmail)) {
+                        Toast.makeText(SignUp.this, "Please enter Email.", Toast.LENGTH_SHORT).show();
 
-                } else if (textPwd.length() < 6) {
-                    Toast.makeText(SignUp.this, "textPwd should be at least 6 digits", Toast.LENGTH_SHORT).show();
+                        editTextRegisterEmail.setError("textEmail is required");
+                        editTextRegisterEmail.requestFocus();
+                    } else if (!Patterns.EMAIL_ADDRESS.matcher(textEmail).matches()) {
+                        Toast.makeText(SignUp.this, "Please re-enter Email.", Toast.LENGTH_SHORT).show();
 
-                    editTextRegisterPwd.setError("textPwd too weak");
-                    editTextRegisterPwd.requestFocus();
+                        editTextRegisterEmail.setError("Valid textEmail is required");
+                        editTextRegisterEmail.requestFocus();
 
-                } else if (TextUtils.isEmpty(textConfirmPwd)) {
-                    Toast.makeText(SignUp.this, "Please confirm your password", Toast.LENGTH_SHORT).show();
-                    editTextRegisterConfirmPwd.setError("textPwd confirmation is required");
-                    editTextRegisterConfirmPwd.requestFocus();
+                    } else if (TextUtils.isEmpty(textDoB)) {
+                        Toast.makeText(SignUp.this, "Please enter your date of birth.", Toast.LENGTH_SHORT).show();
+                        editTextRegisterDoB.setError("Date of Birth is required");
+                        editTextRegisterDoB.requestFocus();
 
-                    //clear the entered textPwd
-                    editTextRegisterPwd.clearComposingText();
-                    editTextRegisterConfirmPwd.clearComposingText();
+                    } else if (radioGroupRegisterGender.getCheckedRadioButtonId() == -1) {
 
-                    //progress dialogbar
-                } else {
-                    //textGender
-                    textGender = radioButtonRegisterGenderSelected.getText().toString();
-                    // progressbar
-                    progressBar.setVisibility(View.VISIBLE);
+                        Toast.makeText(SignUp.this, "Please select your textGender", Toast.LENGTH_SHORT).show();
+                        radioButtonRegisterGenderSelected.setError("textGender is required");
+                        radioButtonRegisterGenderSelected.requestFocus();
 
-                    registerUser(textFullName, textEmail, textDoB, textGender, textConfirmPwd, textMobile);
+                    } else if (TextUtils.isEmpty(textMobile)) {
+                        Toast.makeText(SignUp.this, "Please enter mobile no.", Toast.LENGTH_SHORT).show();
+                        editTextRegisterMobile.setError("Mobile No. is required");
+                        editTextRegisterMobile.requestFocus();
+
+                    } else if (textMobile.length() != 10) {
+                        Toast.makeText(SignUp.this, "Please re-enter mobile no.", Toast.LENGTH_SHORT).show();
+                        editTextRegisterMobile.setError("Mobile No. should be 10 digits");
+                        editTextRegisterMobile.requestFocus();
+
+                    } else if (!mobileMatcher.find()) {
+                        Toast.makeText(SignUp.this, "Please re-enter mobile no.", Toast.LENGTH_SHORT).show();
+                        editTextRegisterMobile.setError("Mobile no is not valid");
+                        editTextRegisterMobile.requestFocus();
+
+
+                    } else if (TextUtils.isEmpty(textPwd)) {
+                        Toast.makeText(SignUp.this, "Please enter password", Toast.LENGTH_SHORT).show();
+                        editTextRegisterPwd.setError("textPwd is required");
+                        editTextRegisterPwd.requestFocus();
+                    } else if (TextUtils.isEmpty(textPwd)) {
+                        Toast.makeText(SignUp.this, "Please enter password", Toast.LENGTH_SHORT).show();
+                        editTextRegisterPwd.setError("textPwd is required");
+                        editTextRegisterPwd.requestFocus();
+
+                    } else if (textPwd.length() < 6) {
+                        Toast.makeText(SignUp.this, "textPwd should be at least 6 digits", Toast.LENGTH_SHORT).show();
+
+                        editTextRegisterPwd.setError("textPwd too weak");
+                        editTextRegisterPwd.requestFocus();
+
+                    } else if (TextUtils.isEmpty(textConfirmPwd)) {
+                        Toast.makeText(SignUp.this, "Please confirm your password", Toast.LENGTH_SHORT).show();
+                        editTextRegisterConfirmPwd.setError("textPwd confirmation is required");
+                        editTextRegisterConfirmPwd.requestFocus();
+
+                        //clear the entered textPwd
+                        editTextRegisterPwd.clearComposingText();
+                        editTextRegisterConfirmPwd.clearComposingText();
+
+                        //progress dialogbar
+                    } else {
+                        //textGender
+                        textGender = radioButtonRegisterGenderSelected.getText().toString();
+                        // progressbar
+                        progressBar.setVisibility(View.VISIBLE);
+
+                        registerUser(textFullName, textEmail, textDoB, textGender, textConfirmPwd, textMobile);
+                    }
                 }
             }
         });
@@ -240,12 +243,12 @@ public class SignUp extends AppCompatActivity {
                                     if (task.isSuccessful()) {
 
                                         //send verification Email
-                                        firebaseUser.sendEmailVerification();
+//                                        firebaseUser.sendEmailVerification();
 
                                         Toast.makeText(SignUp.this, "User Registrated Successfully", Toast.LENGTH_SHORT).show();
 
                                         //Open user profile after succesfull SignUp
-                                        Intent intent = new Intent(SignUp.this, Profile.class);
+                                        Intent intent = new Intent(SignUp.this, Home.class);
                                         startActivity(intent);
                                         finish(); // to close register activity
 

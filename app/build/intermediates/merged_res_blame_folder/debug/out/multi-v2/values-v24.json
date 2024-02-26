@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-57:/values-v24/values-v24.xml",
+            "outputFile": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-62:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\caches\\transforms-3\\16eb237f44f7a94aa8fdf1bc61660b41\\transformed\\material-1.10.0\\res\\values-v24\\values-v24.xml",
+                    "source": "D:\\Android-FaceRecognition-main\\caches\\transforms-3\\dacb405a336ab41c6c762832ec44e45a\\transformed\\material-1.10.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\caches\\transforms-3\\3d508be391f0f7ec288c1f454a5aa828\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "source": "D:\\Android-FaceRecognition-main\\caches\\transforms-3\\1158ac8b79828349b914127d2908edd2\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -30,15 +30,10 @@ import de.hdodenhof.circleimageview.CircleImageView;
 public class Profile extends AppCompatActivity {
 
     private TextView textVieWelcome, textViewFullName, textViewEmail, textViewDoB, textViewGender, textViewMobile;
-
-    //Progress bar
-    private ProgressBar progressBar;
-
+    private ProgressBar progressBar;//Progress bar
     private String fullname, email, doB, gender, mobile;
-    //profile image
-    private CircleImageView imageView;
-    //Firebase authentication
-    private FirebaseAuth authProfile;
+    private CircleImageView imageView; //profile image
+    private FirebaseAuth authProfile; //Firebase authentication
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,58 +1,54 @@
 [
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_main.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_main.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/item_gesture_recognizer_result.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/item_gesture_recognizer_result.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\item_gesture_recognizer_result.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\item_gesture_recognizer_result.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_signup.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_signup.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\info_bottom_sheet.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\info_bottom_sheet.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_update_profile.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_update_profile.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\fragment_gallery.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\fragment_gallery.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_forget_password.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_forget_password.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_change_password.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_change_password.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_upload_profile_pic.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_upload_profile_pic.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_forget_password.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_forget_password.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/info_bottom_sheet.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/info_bottom_sheet.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\signin.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\signin.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/fragment_camera.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/fragment_camera.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\fragment_camera.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\fragment_camera.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_change_password.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_change_password.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_signup.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_signup.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_main.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_update_profile.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_update_profile.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/fragment_gallery.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/fragment_gallery.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_profile.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_profile.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/signin.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/signin.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\activity_upload_profile_pic.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\activity_upload_profile_pic.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/home.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/home.xml"
     },
     {
-        "merged": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:\\layout\\home.xml",
-        "source": "D:\\HandGestureRecognition-master\\HandGestureRecognition-master\\daemon\\8.0\\com.google.mediapipe.examples.gesturerecognizer.app-main-61:\\layout\\home.xml"
-    },
-    {
-        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-58:/layout/signin.xml",
-        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-61:/layout/signin.xml"
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-mergeDebugResources-63:/layout/activity_profile.xml",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-66:/layout/activity_profile.xml"
     }
 ]
